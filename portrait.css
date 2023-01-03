@@ -1,0 +1,20 @@
+*{ 
+    margin: 0px; 
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: black;
+    background-size: cover;
+}
+
+p{
+    font-size: 10px;
+    line-height: 8px;
+    text-align: justify;
+    -webkit-background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("g2.jpg");
+    background-attachment: fixed;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgb(225, 225, 225, 0);
+}
